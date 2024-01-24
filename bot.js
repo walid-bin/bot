@@ -12,7 +12,7 @@ const replies={
     'Hi':'Hello.',
     'Hello':'Hi.',
     'How are you?':'I am fine. What about you?',
-    'I am also fine.':'Great!'
+    'I am also fine.':'Great!',
 }
 
 const commands = [
